@@ -1,0 +1,164 @@
+.name{
+    margin-top: 0;
+    background-color: #B7C4CF;
+    height: 600px;
+}
+
+h1{
+    position: relative;
+    margin: 0 auto 0 auto;
+    font-family: "Sacramento", sans-serif;
+    font-size: 80px;
+    padding-top: 14%;
+    text-align:center;
+    
+    
+}
+
+body{
+    background-color:black;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+
+}
+
+.hat{
+    background-color: #B7C4CF;
+    position:absolute;
+    margin-top: 110px;
+    margin-left: 440px;
+    height: 105px;
+    width: 105px;
+    padding-top: 3%;
+    padding-right: 2%;
+
+}
+
+.mj{
+    position: relative;
+    margin-top: 78px;
+}
+
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+
+.middle{
+    color: #B7C4CF;
+    text-align: center;
+}
+
+.profilepic{
+    margin: 220px auto 20px auto;
+    height: 200px;
+    width: 200px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    padding: 2%;
+}
+
+.intro{
+    margin: auto;
+    width: 25%;
+}
+
+.skill-row{
+    margin: 100px auto 100px auto;
+    width:50%;
+    text-align: left;
+}
+
+.guitar{
+    float: left;
+    width: 20%;
+    margin-right: 30px;
+}
+
+.dance{
+    float: right;
+    width: 20%;
+    margin-left: 30px;
+}
+
+.piano{
+    float: left;
+    width: 20%;
+    margin-right: 30px;
+}
+
+.football{
+    float: right;
+    width: 20%;
+    margin-left: 30px;
+}
+
+.basketball{
+    float: left;
+    width: 20%;
+    margin-right: 30px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat";
+    color: WHITE;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .contactme{
+    width: 30%;
+    margin: 40px auto 60px;
+    line-height: 2;
+
+  }
+
+  .copywright{
+    color: #eaf6f6;
+    font-size: 15px;
+    padding: 20px 0;
+  }
+
+  .bottom{
+    background-color:#B7C4CF;
+    padding: 50px 0 20px;
+
+}
+
+a{
+    color: #11999e;
+    font-family: "Montserrat";
+    margin: 10px 20px;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color: #eaf6f6;
+}
+
+
